@@ -43,31 +43,33 @@ Dorksploit is written for Python 3. Clone the git repository and install the req
 ****
 
 # Linux
+```
 sudo git clone https://github.com/Linuxinet/DORKSPLOIT.git
 
 cd DORKSPLOIT
 
 pip3 install -r requirements.txt
-
+```
 # Dorksploit Usage Linux
+```
 
 sudo python3 dorksploit.py
 
-
+```
 ****
 
 # Termux
-
+```
 git clone https://github.com/Linuxinet/DORKSPLOIT.git
 
 cd DORKSPLOIT
 
 pip install -r requirements.txt
-
+```
 # Usage Termux
-
+```
 python dorksploit.py
-
+```
 ![Screenshot](Img/IMG_20201031_150521.jpg)
 ****
 
