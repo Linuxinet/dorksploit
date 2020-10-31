@@ -1,7 +1,7 @@
-## Dorks Eye
-**Dorks Eye Google Hacking Dork Scraping and Searching Script**
+## DORKSPLOIT
+**Dorksploit Google Hacking Dork Scraping and Searching Script**
 
-Dorks Eye is a script I made in python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
+Dorksploit is a script I made in python 3. With this tool, you can easily find Google Dorks. Dorksploit collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots.
 
 
 ![Screenshot](Img/IMG_20201031_150826.jpg)
@@ -43,7 +43,7 @@ Dorks Eye has tested it so far on:
 This list would be expanded
 ****
 
-Dork Eye is written for Python 3. Clone the git repository and install the requirements.
+Dorksploit is written for Python 3. Clone the git repository and install the requirements.
 ****
 
 # Linux
@@ -64,7 +64,7 @@ sudo python3 dorksploit.py
 
 git clone https://github.com/Linuxinet/DORKSPLOIT.git
 
-cd dorks-eye
+cd DORKSPLOIT
 
 pip install -r requirements.txt
 
@@ -92,5 +92,3 @@ Social Networks - Connect
 # [Youtube@Linuxinet](https://youtube.com/Linuxinetyt)
 
 ***
-
-
