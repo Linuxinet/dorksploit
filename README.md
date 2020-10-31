@@ -1,4 +1,5 @@
 ## DORKSPLOIT
+
 **Dorksploit Google Hacking Dork Scraping and Searching Script**
 
 Dorksploit is a script I made in python 3. With this tool, you can easily find Google Dorks. Dorksploit collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots.
@@ -44,9 +45,9 @@ Dorksploit is written for Python 3. Clone the git repository and install the req
 
 # Linux
 ```
-sudo git clone https://github.com/Linuxinet/DORKSPLOIT.git
+sudo git clone https://github.com/Linuxinet/dorksploit.git
 
-cd DORKSPLOIT
+cd dorksploit
 
 pip3 install -r requirements.txt
 ```
@@ -60,9 +61,9 @@ sudo python3 dorksploit.py
 
 # Termux
 ```
-git clone https://github.com/Linuxinet/DORKSPLOIT.git
+git clone https://github.com/Linuxinet/dorksploit.git
 
-cd DORKSPLOIT
+cd dorksploit
 
 pip install -r requirements.txt
 ```
