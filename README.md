@@ -35,6 +35,7 @@ A prerequisite for a script that I make must be that it is simple and easy to us
 
 Dorks Eye has tested it so far on:
 * Kali Linux
+* Ubuntu
 * Parrot Security
 * BlackArch
 * Termux
@@ -46,7 +47,7 @@ Dork Eye is written for Python 3. Clone the git repository and install the requi
 ****
 
 # Linux
-sudo git clone https://github.com/BullsEye0/dorks-eye.git
+sudo git clone https://github.com/Linuxinet/DORKSPLOIT.git
 
 cd dorks-eye
 
@@ -54,14 +55,14 @@ pip3 install -r requirements.txt
 
 # Dorks Eye Usage Linux
 
-sudo python3 dorks-eye.py
+sudo python3 dorksploit.py
 
 
 ****
 
 # Termux
 
-git clone https://github.com/BullsEye0/dorks-eye.git
+git clone https://github.com/Linuxinet/DORKSPLOIT.git
 
 cd dorks-eye
 
@@ -69,7 +70,7 @@ pip install -r requirements.txt
 
 # Usage Termux
 
-python dorks-eye.py
+python dorksploit.py
 
 ****
 
@@ -87,7 +88,7 @@ causing malicious or damaging attacks.
 # Contact to coder
 Social Networks - Connect
 
-* [Youtube](https://youtu.be/XCtWM-4ov2U)
+# [Youtube](https://youtube.com/Linuxinetyt)
 
 ***
 
