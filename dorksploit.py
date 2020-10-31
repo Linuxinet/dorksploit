@@ -18,7 +18,6 @@ import time
 
 if sys.version[0] in "2":
     print ("\n[x] ..n00b.. Dorks Eye Is Not Supported For python 2.x Use Python 3.x \n")
-    print ("\n\n\tDorks Eye \033[1;91mI like to See Ya, Hacking \033[0m😃\n\n")
     exit()
 
 
@@ -121,7 +120,7 @@ def dorks():
 
     print ("[•] Done... HAPPY HACKING...")
     print ("\n\t\t\t\t\033[34mDORKSPLOIT\033[0m")
-    print ("\t\t\033[1;91m[!] Subscribey youtube channel \033[0mLinuxinet\n\n")
+    print ("\t\t\033[1;91m[!] Subscribe my youtube channel \033[0mLinuxinet\n\n")
     sys.exit()
 
 
