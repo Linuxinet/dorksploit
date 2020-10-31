@@ -2,14 +2,10 @@
 **Dorksploit Google Hacking Dork Scraping and Searching Script**
 
 Dorksploit is a script I made in python 3. With this tool, you can easily find Google Dorks. Dorksploit collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots.
-
-
-![Screenshot](Img/IMG_20201031_150826.jpg)
-***
-
-You can save the output in a file so that you can view it at a later time. You can determine the number of searches yourself. The number of websites to display
-
-You can also use Dorks Eye as a command-line interface (CLI) to quickly search through Google. Dorks Eye shows only the links, without advertising, and is and is also fast.
+                                                              
+![Screenshot](Img/IMG_20201031_150826.jpg)                    ***
+                                                              You can save the output in a file so that you can view it at a later time. You can determine the number of searches yourself. The number of websites to display                           
+You can also use Dorksploit as a command-line interface (CLI) to quickly search through Google. Dorksploit shows only the links, without advertising, and is and is also fast.
 
 But be careful not to overdo it, otherwise, you have a chance that If you perform too many requests over a short period, Google will start to throw captchas at you. This is annoying and will limit how much or how fast you do the search.
 ****
@@ -30,10 +26,10 @@ So much more …
 ![Screenshot](Img/IMG_20201031_150521.jpg)
 ****
 
-## Install Dorks Eye
+## Install Dorksploit
 A prerequisite for a script that I make must be that it is simple and easy to use and understand for everyone.
 
-Dorks Eye has tested it so far on:
+Dorksploit has tested it so far on:
 * Kali Linux
 * Ubuntu
 * Parrot Security
@@ -49,11 +45,11 @@ Dorksploit is written for Python 3. Clone the git repository and install the req
 # Linux
 sudo git clone https://github.com/Linuxinet/DORKSPLOIT.git
 
-cd dorks-eye
+cd DORKSPLOIT
 
 pip3 install -r requirements.txt
 
-# Dorks Eye Usage Linux
+# Dorksploit Usage Linux
 
 sudo python3 dorksploit.py
 
