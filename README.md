@@ -4,7 +4,7 @@
 Dorks Eye is a script I made in python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
 
 
-![Screenshot](Img/dork-eye-banner.png)
+![Screenshot](Img/dorksploit-banner.png)
 ***
 
 You can save the output in a file so that you can view it at a later time. You can determine the number of searches yourself. The number of websites to display
@@ -27,7 +27,7 @@ Vulnerable websites
 So much more …
 ****
 
-![Screenshot](Img/dorks-eye.png)
+![Screenshot](Img/dorksploit.png)
 ****
 
 ## Install Dorks Eye
@@ -72,6 +72,7 @@ pip install -r requirements.txt
 
 python dorksploit.py
 
+![Screenshot](Img/dorksploit-usage.png)
 ****
 
 
@@ -88,7 +89,7 @@ causing malicious or damaging attacks.
 # Contact to coder
 Social Networks - Connect
 
-# [Youtube](https://youtube.com/Linuxinetyt)
+# [Youtube@Linuxinet](https://youtube.com/Linuxinetyt)
 
 ***
 
